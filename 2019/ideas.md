@@ -14,5 +14,5 @@
 * Accessibility and design iteration/audit
 * Resume fragment to enable everyone to host their own resume easily
 
-## Reposeed](https://reposeed.okkur.io/
+## [Reposeed](https://reposeed.okkur.io/
 * Hosted reposeed version with optional Github/Gitlab integration to provide base documents
