@@ -1,4 +1,4 @@
-# GSoC 2018 ideas
+# GSoC 2019 ideas
 
 ## [TXTDirect](https://about.txtdirect.org)
 * Tor based proxy redirects to easily enable vanity based proxying to hidden onion services to enable self sovereign hosting of data
