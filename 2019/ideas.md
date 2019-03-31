@@ -9,10 +9,10 @@
 * Base theme to showcase resumic based resumes/CVs
 * Machine learning to get from legacy resume/CV (doc, pdf, image) to machine readable standardizes resumic schema
 
-## [Syna](https://syna.okkur.io)
+## [Syna](https://syna.okkur.org)
 * Bitcoin Lightning fragment
 * Accessibility and design iteration/audit
 * Resume fragment to enable everyone to host their own resume easily
 
-## [Reposeed](https://reposeed.okkur.io/)
+## [Reposeed](https://reposeed.okkur.org/)
 * Hosted reposeed version with optional Github/Gitlab integration to provide base documents
